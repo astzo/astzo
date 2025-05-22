@@ -1,6 +1,6 @@
 # 🚀 ASTZO — Advanced Software & Technology Zone
 
-Welcome to **ASTZO**, your trusted partner in building scalable, modern, and high-performing digital solutions. We specialize in full-stack web development, mobile app development, WordPress customization, SEO, and more — tailored for startups, SMEs, and enterprises alike.
+Welcome to **ASTZO**, your trusted partner in building scalable, modern, and high-performing digital solutions. We specialize in full-stack web development, mobile app development, WordPress website development, WordPress theme development, SEO, and more — tailored for startups and enterprises alike.
 
 ---
 
