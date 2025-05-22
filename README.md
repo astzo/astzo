@@ -78,7 +78,7 @@ We're building more than just software — we're building a **community**.
 ## 💬 Contact Us
 
 Have a project in mind or a question for us?  
-📩 Email: info@astzo.com  
+📩 Email: contact@astzo.com  
 🌍 Website: [https://astzo.com](https://astzo.com)  
 📞 Phone: +880 123 456 789
 
